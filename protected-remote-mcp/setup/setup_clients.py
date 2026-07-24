@@ -271,7 +271,6 @@ def main():
 
         print("\n\nTest user credentials:")
         print("  Email: " + args.email_address)
-        print("  Password: BSWrocks")
     else:
         print("\nClient was not created.")
 
